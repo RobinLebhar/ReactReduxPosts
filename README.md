@@ -22,6 +22,6 @@ Dans un autre terminal
 
 ### Demarrer l'API :  ( port 3000)
 ```
- > npm install json-server
+ > npm install -g json-server@0.12.0
  > json-server --watch fillDB.js
 ```
